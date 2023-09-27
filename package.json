@@ -138,10 +138,9 @@
     "lodash": "^4.17.21",
     "utils-merge": "^1.0.1"
   },
-  "devDependencies": {
-    "nodemon": "^3.0.1"
-  },
+
   "scripts": {
+    "start": "nodemon app.js"
  },
   "keywords": [],
   "author": "",
